@@ -1,4 +1,0 @@
-import = ["~/.config/alacritty/theme.toml"]
-
-[font]
-normal = { family = "JetBrainsMono Nerd Font Propo", style = "Regular" }
