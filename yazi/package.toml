@@ -1,0 +1,32 @@
+[[plugin.deps]]
+use = "ndtoan96/ouch"
+rev = "0742fff"
+hash = "2bd799b42b8e42b8ef100310be71f8d1"
+
+[[plugin.deps]]
+use = "grappas/wl-clipboard"
+rev = "e9a38e4"
+hash = "6b8e5d6b09626facec713923d3ddb54b"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:mount"
+rev = "d7588f6"
+hash = "e1de3054c0d1a2d8dc6f007eadc0fa31"
+
+[[plugin.deps]]
+use = "imsi32/yatline"
+rev = "88bd1c5"
+hash = "981acbe9b758b1af3a8154c932bb936d"
+
+[[plugin.deps]]
+use = "uhs-robert/recycle-bin"
+rev = "3c94d7d"
+hash = "721b1580a93c168d796135dfc3d3bda7"
+
+[[plugin.deps]]
+use = "boydaihungst/restore"
+rev = "dc40509"
+hash = "e7e377f9b1bbaca4a2e5d9ec9709ac4d"
+
+[flavor]
+deps = []
